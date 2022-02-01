@@ -1,0 +1,47 @@
+.box-numbers {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.box-numbers #number {
+  margin-left: 300px;
+  margin-top: 50px;
+  border-radius: 5px;
+  text-align: center;
+}
+
+.box-numbers #numbers {
+  margin-right: 330px;
+  margin-top: 50px;
+  border-radius: 5px;
+  text-align: center;
+}
+
+#operators {
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  margin-top: 40px;
+  margin-left: 340px;
+}
+
+#operators .btn {
+  width: 8%;
+  margin: 5px;
+}
+
+.result .result-calc {
+  margin-left: 480px;
+  margin-top: 50px;
+  border-radius: 5px;
+  text-align: center;
+}
+
+.refresh .fas {
+  color: black;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+/*# sourceMappingURL=style.css.map */

@@ -1,0 +1,38 @@
+.box-numbers{
+    display: flex;
+    #number{
+        margin-left: 300px;
+        margin-top: 50px;
+        border-radius: 5px;
+        text-align: center;
+    }
+    #numbers{
+        margin-right: 330px;
+        margin-top: 50px;
+        border-radius: 5px;
+        text-align: center;
+    }
+}
+
+#operators{
+    
+    justify-content: center;
+    margin-top: 40px;
+    margin-left: 340px;
+    .btn{
+        width: 8%;
+        margin: 5px;
+        
+    }
+}
+
+.result{
+    
+    .result-calc{
+        margin-left: 480px;
+        margin-top: 50px;
+        border-radius: 5px;
+        text-align: center;
+       
+    }
+}
